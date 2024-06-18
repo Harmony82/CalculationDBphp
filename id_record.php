@@ -3,7 +3,7 @@
 $servername = "mysql644.db.sakura.ne.jp";
 $username = "kaitgamdev"; // 適宜変更
 $password = "power-of-game0"; // 適宜変更
-$dbname = "ogawa"; // 事前に作成しておく
+$dbname = "kaitgamdev_ogawa"; // 事前に作成しておく
 $dsn ="mysql:host=$servername;dbname=$dbname;";
 
 // エラーレポートの設定
